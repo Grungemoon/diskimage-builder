@@ -32,6 +32,7 @@
         - containerfile/focal-build-succeeds
         - fedora-container/build-succeeds
         - openeuler-minimal/20.03-LTS-SP2-build-succeeds
+        - oraclelinux/8-build-succeeds
 
 - job:
     name: dib-functests-image
